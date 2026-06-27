@@ -2,9 +2,10 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/JoseAugAlv">
-        <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=JoseAugAlv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=JoseAugAlv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false&rank_icon=github&show=reviews,discussions_started,discussions_answered)"/>
-      </a>
+     <a href="https://github.com/JoseAugAlv">
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=JoseAugAlv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false&rank_icon=github"/>
+</a>
     </td>
     <td>
       <a href="https://github.com/JoseAugAlv">
