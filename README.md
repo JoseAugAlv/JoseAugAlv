@@ -1,7 +1,4 @@
 # Olá, eu sou o Jose Augusto Alves 👋
-
-Desenvolvedor Full Stack apaixonado por tecnologia e inovação, atualmente em formação e buscando criar soluções elegantes, funcionais e eficientes para resolver problemas reais. Tenho experiência no desenvolvimento de sistemas CMS, landing pages e outras aplicações web modernas, sempre com foco em performance, usabilidade e boas práticas de desenvolvimento.
-
 <table align="center">
   <tr>
     <td>
