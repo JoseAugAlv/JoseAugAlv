@@ -4,13 +4,13 @@
     <td>
      <a href="https://github.com/JoseAugAlv">
   <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=JoseAugAlv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false&rank_icon=github"/>
+       src="https://github-stats-extended.vercel.app/api?username=JoseAugAlv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false&rank_icon=github"/>
 </a>
     </td>
     <td>
       <a href="https://github.com/JoseAugAlv">
-        
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoseAugAlv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2"/>
+
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=JoseAugAlv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2"/>
       </a>
     </td>
   </tr>
